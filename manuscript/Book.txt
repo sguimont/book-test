@@ -1,3 +1,6 @@
 00-introduction/00-introduction.txt
 10-dojang/00-introduction.txt
 20-techniques/00-introduction.txt
+20-techniques/10-positions.txt
+20-techniques/20-coup-de-poing.txt
+20-techniques/30-coup-de-pied.txt
