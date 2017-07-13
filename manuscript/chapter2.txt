@@ -10,7 +10,7 @@ Distraction Free
 
 Faire un test avec une image
 
-![Test](../images/prizes-free-music.jpg)
+![Test](images/prizes-free-music.jpg)
 
 T> ## This is a Tip
 T>
