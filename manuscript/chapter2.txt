@@ -1,12 +1,14 @@
-Chapter 2
-=========
+## Une sous-section
+
+test
+
+# Tecniques
 
 It was a **bold** and *italic* night!
 
 Suddenly, a shot rang out!
 
-Distraction Free
-----------------
+## Distraction Free
 
 Faire un test avec une image
 
@@ -16,3 +18,13 @@ T> ## This is a Tip
 T>
 T> To make a tip, put `T>` at the beginning of the lines of
 T> the tip, similar to the `>` that you use for a blockquote.
+
+# Chapitre 3
+
+|Verb |Action |Idempotent?|
+|-------|------------------------------------------------|-----------|
+|GET |Responds with information about the resource |Yes |
+|POST |Creates a sub-resource of the resource POSTed to|No |
+|PUT |Creates or updates the resource being PUT to |Yes |
+|DELETE |DELETES the resource |Yes |
+|HEAD |Gets metadata about the resource |Yes |
