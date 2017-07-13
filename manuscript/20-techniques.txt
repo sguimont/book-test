@@ -1,8 +1,4 @@
-## Une sous-section
-
-test
-
-# Tecniques
+# Techniques
 
 It was a **bold** and *italic* night!
 
@@ -19,7 +15,7 @@ T>
 T> To make a tip, put `T>` at the beginning of the lines of
 T> the tip, similar to the `>` that you use for a blockquote.
 
-# Chapitre 3
+## test
 
 |Verb |Action |Idempotent?|
 |-------|------------------------------------------------|-----------|

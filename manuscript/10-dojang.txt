@@ -1,14 +1,13 @@
-# Introduction
+# Dojang
 
 [Leanpub](http://leanpub.com)
 
  Hello, world!
 
-# Autres Section
+## Autres Section
 
 test
 
-# Encore une autre
+## Encore une autre
 
 test
-

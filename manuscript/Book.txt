@@ -1,2 +1,3 @@
-chapter1.txt
-chapter2.txt
+00-introduction.txt
+10-dojang.txt
+20-techniques.txt
