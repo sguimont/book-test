@@ -5,11 +5,14 @@ It was a **bold** and *italic* night!
 
 Suddenly, a shot rang out!
 
- 
-
 Distraction Free
 ----------------
 
 Faire un test avec une image
 
-![Test](<../images/prizes-free-music.jpg>)
+![Test](../images/prizes-free-music.jpg)
+
+T> ## This is a Tip
+T>
+T> To make a tip, put `T>` at the beginning of the lines of
+T> the tip, similar to the `>` that you use for a blockquote.
