@@ -4,9 +4,8 @@ Nous allons présenter chacune des techniques avec son nom, sa description déta
 
 Liste des techniques:
 
+* Bases
 * Positions (seugi)
-* Coup de poings (chigi)
-* Coup de pieds (chagi)
-* Auto-défense
-  * Chorégraphie (1 step)
-  * Joints
+* Bloques (maki)
+* Coups de poing (chigi)
+* Coups de pied (chagi)
