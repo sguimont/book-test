@@ -1,0 +1,19 @@
+{
+  "name": "manuel-instructeur",
+  "version": "1.0.0",
+  "description": "Manuel d'instructure de l'Académie Jitae Taekwondo",
+  "main": "index.js",
+  "scripts": {
+    "generate-book": "node lib/generate-book.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sguimont/book-test.git"
+  },
+  "author": "Sebastien Guimont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sguimont/book-test/issues"
+  },
+  "homepage": "https://github.com/sguimont/book-test#readme"
+}
