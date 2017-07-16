@@ -1,5 +1,6 @@
-## Programme pour ceinture de couleur
+## Programme pour ceinture de couleure
 
+{title="Programme Couleure",width="95%"}
 | Étapes    | Orange             | Barre-Jaune        | Jaune | Barre-Verte | Verte |  
 |-----------|--------------------|--------------------|-------|-------------|-------|
 | *Spécial* | Enlignements       | Compter jusqu'à 10 | | | |
