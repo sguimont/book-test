@@ -1,6 +1,3 @@
 # Poomsae
 
-Présenter les poomsae.
-
-* Tageuk
-* Noir
+Présentation des Taegeuks et des Poomsaes.
