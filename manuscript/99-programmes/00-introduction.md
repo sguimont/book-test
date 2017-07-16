@@ -1,9 +1,9 @@
 # Programmes
 
-Présentations des programmes par ceinture.
+Présentation des programmes par ceinture.
 
-* Passage de grade
 * Programme pour ceinture de couleur
 * Programme pour ceinture noire
+* Passage de grade
 * Template de saison
 * Template de cours
