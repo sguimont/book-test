@@ -28,3 +28,4 @@
 80-qualités-physiques/00-introduction.md
 90-activités/00-introduction.md
 99-programmes/00-introduction.md
+99-programmes/10-prog-couleur.md
