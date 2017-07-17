@@ -2,7 +2,7 @@
 
 ## Taegeuk 2 - Ee Jang
 
-![Taegeuk 2](images/poomsae/taegeuk-2.png)
+![Taegeuk 2](images/poomsae/taegeuk-2.jpg)
 
 {icon=asterisk}
 G> ## Notes!
