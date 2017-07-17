@@ -29,4 +29,3 @@
 90-activités/00-introduction.md
 99-programmes/00-introduction.md
 99-programmes/10-prog-couleur.md
-99-programmes/20-tableau.docx
