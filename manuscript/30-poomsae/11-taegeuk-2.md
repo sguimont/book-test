@@ -1,7 +1,6 @@
-{pagebreak}
-
 ## Taegeuk 2 - Ee Jang
 
+{width: "50%"}
 ![Taegeuk 2](images/poomsae/taegeuk-2.jpg)
 
 {icon=asterisk}
